@@ -1,0 +1,22 @@
+{
+  "name": "ussf-js-async-checkpoint",
+  "version": "1.0.0",
+  "description": "repo for async checkpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwalters162/ussf-js-async-checkpoint.git"
+  },
+  "author": "Cherokee Walters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwalters162/ussf-js-async-checkpoint/issues"
+  },
+  "homepage": "https://github.com/cwalters162/ussf-js-async-checkpoint#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
